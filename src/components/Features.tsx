@@ -9,7 +9,7 @@ const FEATURES = [
   },
   {
     title: "Suporte da CodePath",
-    text: "Acompanhamento direto com quem constrói — sem intermediário.",
+    text: "Acompanhamento direto com quem constrói, sem intermediário.",
   },
 ];
 

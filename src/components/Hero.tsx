@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="hero" id="hero">
       <div className="hero-badge">OFERTA POR TEMPO LIMITADO</div>
       <h1>
-        Seu site institucional no ar — e no{" "}
+        Seu site institucional no ar e no{" "}
         <span className="highlight">Google</span>.
       </h1>
       <p>

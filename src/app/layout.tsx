@@ -19,7 +19,7 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "Site Institucional em Promoção — CodePath",
+  title: "Site Institucional em Promoção, CodePath",
   description:
     "Site institucional profissional, feito pela CodePath, pronto para aparecer no Google. Oferta por tempo limitado: R$ 499 à vista ou 12x de R$ 129,90.",
   keywords: [
@@ -43,15 +43,15 @@ export const metadata: Metadata = {
     type: "website",
     locale: "pt_BR",
     url: "https://promo.codepath.dev.br",
-    title: "Site Institucional em Promoção — CodePath",
+    title: "Site Institucional em Promoção, CodePath",
     description:
-      "Seu site institucional no ar — e no Google. Oferta por tempo limitado.",
+      "Seu site institucional no ar e no Google. Oferta por tempo limitado.",
     siteName: "CodePath",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Site Institucional em Promoção — CodePath",
-    description: "Seu site institucional no ar — e no Google.",
+    title: "Site Institucional em Promoção, CodePath",
+    description: "Seu site institucional no ar e no Google.",
   },
   robots: {
     index: true,
@@ -83,7 +83,7 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Offer",
-              name: "Site institucional completo — CodePath",
+              name: "Site institucional completo, CodePath",
               description:
                 "Site institucional profissional, otimizado para buscas, feito pela CodePath.",
               price: "499",

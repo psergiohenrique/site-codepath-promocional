@@ -3,7 +3,7 @@ import { ImageResponse } from 'next/og'
 export const runtime = 'nodejs'
 export const size = { width: 1200, height: 630 }
 export const contentType = 'image/png'
-export const alt = 'CodePath — Site institucional em promoção'
+export const alt = 'CodePath: Site institucional em promoção'
 
 export default function Image() {
   return new ImageResponse(
@@ -80,7 +80,7 @@ export default function Image() {
                 maxWidth: '900px',
               }}
             >
-              Seu site institucional no ar — e no Google.
+              Seu site institucional no ar e no Google.
             </div>
             <div
               style={{
