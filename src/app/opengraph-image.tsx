@@ -91,7 +91,7 @@ export default function Image() {
                 fontWeight: 400,
               }}
             >
-              R$ 499 à vista ou 12x de R$ 129,90. Oferta por tempo limitado.
+              R$ 499 à vista ou 12x mensais de R$ 129,90. Oferta por tempo limitado.
             </div>
           </div>
 
