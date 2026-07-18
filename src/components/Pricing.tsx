@@ -10,10 +10,8 @@ export default function Pricing() {
 
         <div className="price-divider" />
 
-        <div className="price-alt">ou R$ 599 parcelado</div>
-        <div className="price-alt-note">
-          + 12x de R$ 129,90 por mês, como uma assinatura
-        </div>
+        <div className="price-alt">+ R$ 129,90 por mês</div>
+        <div className="price-alt-note">como uma assinatura</div>
 
         <a
           href={whatsappLink(
