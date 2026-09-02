@@ -3,9 +3,14 @@ import { whatsappLink } from "@/lib/whatsapp";
 export default function Pricing() {
   return (
     <section className="oferta" id="oferta">
+      <div className="oferta-glow" aria-hidden="true" />
       <div className="price-card">
         <div className="price-eyebrow">SITE INSTITUCIONAL COMPLETO</div>
-        <div className="price-main">R$ 499</div>
+
+        <div className="price-row">
+          <span className="price-currency">R$</span>
+          <span className="price-main">499</span>
+        </div>
         <div className="price-note">à vista</div>
 
         <div className="price-divider" />
@@ -22,6 +27,7 @@ export default function Pricing() {
           className="btn-price"
         >
           Quero contratar
+          <span aria-hidden="true">→</span>
         </a>
       </div>
 
