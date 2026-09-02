@@ -8,8 +8,8 @@ export default function Nav() {
         <Image
           src="/assets/logo-icon.png"
           alt=""
-          width={28}
-          height={28}
+          width={30}
+          height={30}
           className="mark-nav"
           priority
         />

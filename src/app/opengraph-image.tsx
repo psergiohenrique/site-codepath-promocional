@@ -91,7 +91,7 @@ export default function Image() {
                 fontWeight: 400,
               }}
             >
-              R$ 499 à vista + R$ 129,90 por mês. Oferta por tempo limitado.
+              R$ 399 à vista + R$ 129,90 por mês. Oferta por tempo limitado.
             </div>
           </div>
 

@@ -21,7 +21,7 @@ const manrope = Manrope({
 export const metadata: Metadata = {
   title: "Site Institucional em Promoção, CodePath",
   description:
-    "Site institucional profissional, feito pela CodePath, pronto para aparecer no Google. Oferta por tempo limitado: R$ 499 à vista + R$ 129,90 por mês.",
+    "Site institucional profissional, feito pela CodePath, pronto para aparecer no Google. Oferta por tempo limitado: R$ 399 à vista + R$ 129,90 por mês.",
   keywords: [
     "site institucional",
     "criação de sites",
@@ -86,7 +86,7 @@ export default function RootLayout({
               name: "Site institucional completo, CodePath",
               description:
                 "Site institucional profissional, otimizado para buscas, feito pela CodePath.",
-              price: "499",
+              price: "399",
               priceCurrency: "BRL",
               url: "https://promo.codepath.dev.br",
               seller: {
